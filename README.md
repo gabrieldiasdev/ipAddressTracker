@@ -1,34 +1,33 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Desafio IP Address Tracker do Frontend Mentor
 
-## Getting Started
+## 💻 _ip-address-tracker_
 
-First, run the development server:
+Repositório criado para armazenar o desafio IP Address Tracker proposto pela comunidade Frontend Mentor.
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+## 💻  Projeto desenvolvido
+<a target="_blank">Acesse o projeto</a>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+<img src="public/README_IMG1.jpg" />
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+<img src="public/README_IMG2.jpg" />
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+## 💡  Info
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
 
-## Learn More
+O projeto contém uma interface moderna e responsiva para apresentar informações de localização do ip ou domínio informado!
 
-To learn more about Next.js, take a look at the following resources:
+## 💻 Tecnologias/Pacotes utilizados
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+- Next.js
+- Styled Components
+- Leaflet
+- Toastify
 
-## Deploy on Vercel
+## 👨‍💻 Autor
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Gabriel Dias Catarin, desenvolvedor web | Bauru, São Paulo
+
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/gabriel-dias-260857207/)
+&nbsp;
