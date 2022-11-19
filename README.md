@@ -5,7 +5,6 @@
 Repositório criado para armazenar o desafio IP Address Tracker proposto pela comunidade Frontend Mentor.
 
 ## 💻  Projeto desenvolvido
-<a target="_blank">Acesse o projeto</a>
 
 <img src="public/README_IMG1.jpg" />
 
